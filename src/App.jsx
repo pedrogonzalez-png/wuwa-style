@@ -37,8 +37,9 @@ export default function App() {
           </button>
 
           <button className='sair'>
-            <Sparkle className='sparkle' />
+            <a href="https://pedrogonzalez-png.github.io/site-card2.0/"><Sparkle className='sparkle' />
             <Sparkle className='sparkle1' />
+            </a>
           </button>
         </header>
 

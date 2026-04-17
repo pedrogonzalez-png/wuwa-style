@@ -22,6 +22,12 @@ main {
   color: #d4af37;
 }
 
+a{
+  width: auto;
+  height: auto;
+  display: flex;
+}
+
 /* HEADER */
 header {
   position: absolute;
